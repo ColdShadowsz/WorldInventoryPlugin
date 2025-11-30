@@ -20,9 +20,9 @@ Start the server
 
 There will not be a Config.yml because the plugin starts automatically
 
-# ========================================
+# ===================================
 # Development / Contribution
-# ========================================
+# ===================================
 
 Fork the repository and submit pull requests for features or bug fixes.
 
