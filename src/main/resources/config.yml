@@ -1,0 +1,20 @@
+# ========================================
+# WorldInventoryPlugin Configuration
+# ========================================
+
+# WARNING:
+# If you don't know what this does or how to manually add groups, leave this alone.
+# Default is false, which means worlds are grouped automatically by suffix (_nether, _end).
+# Set to true ONLY if you want to manually define groups below.
+
+Loadconfig-on-start: false
+
+groups:
+  skyblock:
+    - bskyblock
+    - bskyblock_nether
+    - bskyblock_the_end
+  oneblock:
+    - oneblock
+    - oneblock_nether
+    - oneblock_the_end
